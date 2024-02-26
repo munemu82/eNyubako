@@ -48,7 +48,7 @@ class CustomerService:
          # Find the customer record in the database
         db_customerid = db.query(Customer).filter(Customer.id == customerid).first()
 
-        db.delete(db)
+        db.delete(db_customerid)
 
         db.commit()
 

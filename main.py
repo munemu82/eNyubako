@@ -21,7 +21,7 @@ JWT_SECRET_KEY = os.getenv("JWT_SECRET_KEY")
 ALGORITHM = os.getenv("ALGORITHM")
 
 # ROUTERS IMPORTS
-from routers import customerrouter, userrouter, projectrouter
+from routers import customerrouter, userrouter, projectrouter, statusrouter
 
 
 app = FastAPI(title="E-Nyumbako APIs",
@@ -34,6 +34,7 @@ models.Base.metadata.create_all(bind=engine)
 app.include_router(userrouter.router, prefix="")
 app.include_router(customerrouter.router, prefix="")
 app.include_router(projectrouter.router, prefix="")
+app.include_router(statusrouter.router, prefix="")
 
 def token_required(func):
     @wraps(func)
