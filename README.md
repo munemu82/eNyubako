@@ -14,5 +14,7 @@ https://github.com/expo-community/expo-firebase-starter
 https://medium.com/@devbrite/how-to-build-an-e-commerce-app-in-react-native-6ac4b12984fa
 https://github.com/Panda4817/react-native-shop-app/tree/main
 
+REACT NATIVE WITH FIREBASE ->  STORING/UPLOADING IMAGE TO FIREBASE  https://heartbeat.comet.ml/upload-images-in-react-native-apps-using-firebase-and-firestore-297934c9bae8
+
 OTHeR OPTIONS 
 https://www.youtube.com/watch?v=3tobiO8zDDA
