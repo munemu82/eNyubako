@@ -22,3 +22,9 @@ https://github.com/Panda4817/react-native-shop-app/tree/main  (E-COMMERCE APP - 
 
 OTHeR OPTIONS 
 https://www.youtube.com/watch?v=3tobiO8zDDA
+
+FIREBASE APIs
+https://medium.com/angular-in-depth/building-an-api-with-firebase-6108a207c1fd
+[Netlify](https://blog.logrocket.com/building-rest-api-firebase-cloud-functions-typescript-firestore/)
+https://supabase.com/pricing
+https://aws.amazon.com/pm/amplify/?gclid=EAIaIQobChMI9rnEl_DrhQMVlhiDAx0JLwpoEAMYASAAEgL1CvD_BwE&trk=57a69252-2d81-4efa-b84d-503da250e6d0&sc_channel=ps&ef_id=EAIaIQobChMI9rnEl_DrhQMVlhiDAx0JLwpoEAMYASAAEgL1CvD_BwE:G:s&s_kwcid=AL!4422!3!647374791998!p!!g!!mobile%20app%20development!19613643789!145160415109
