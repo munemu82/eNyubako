@@ -18,6 +18,7 @@ REACT NATIVE WITH FIREBASE ->  STORING/UPLOADING IMAGE TO FIREBASE  https://code
 https://instamobile.io/mobile-development/react-native-firebase-storage/
 https://www.youtube.com/watch?v=cq5TGA6sBQQ
 https://codewithbeto.dev/projects/firebase-storage
+https://github.com/Panda4817/react-native-shop-app/tree/main  (E-COMMERCE APP - WELL DESIGNED USING REDUX TO MANAGE STATES)
 
 OTHeR OPTIONS 
 https://www.youtube.com/watch?v=3tobiO8zDDA
